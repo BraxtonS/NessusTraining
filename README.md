@@ -39,12 +39,12 @@ After this, I ran a scan with the credentials of the account made on the VM: <br
 <img src="https://i.imgur.com/Zg9QMrx.png" height="80%" width="80%" alt="Lab Screenshots"/>
 <br />
 <br />
-Checking if internal client CLIENT1 has connection to internet via DC by pinging google.com : <br/> <br />
-<img src="https://i.imgur.com/HFoPspR.png" height="80%" width="80%" alt="Lab Screenshots"/>
+I then downloaded a very old version of Firefox (3.6.12) on the VM and ran another credentialed scan: <br/> <br />
+<img src="https://i.imgur.com/oCArjO7.png" height="80%" width="80%" alt="Lab Screenshots"/>
 <br />
 <br />
 Observing new Address Lease given to CLIENT1 (DHCP within given range, client within established domain, lease expiration is set to 8 days) : <br/> <br />
-<img src="https://i.imgur.com/fJIzfIa.png" height="80%" width="80%" alt="Lab Screenshots"/>
+<img src="https://imgur.com/e2b48c2c-ea45-4ab4-90f1-457904b69c37" height="80%" width="80%" alt="Lab Screenshots"/>
 <br />
 <br />
 Observing new Address Lease given to CLIENT1 (DHCP within given range, client within established domain, lease expiration is set to 8 days) : <br/> <br />
