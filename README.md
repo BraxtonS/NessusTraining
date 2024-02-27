@@ -43,18 +43,22 @@ I then downloaded a very old version of Firefox (3.6.12) on the VM and ran anoth
 <img src="https://i.imgur.com/oCArjO7.png" height="80%" width="80%" alt="Lab Screenshots"/>
 <br />
 <br />
-Observing new Address Lease given to CLIENT1 (DHCP within given range, client within established domain, lease expiration is set to 8 days) : <br/> <br />
-<img src="https://imgur.com/e2b48c2c-ea45-4ab4-90f1-457904b69c37" height="80%" width="80%" alt="Lab Screenshots"/>
+Now I attempted to remediate these as best I could, which began with deleting Firefox from the VM: <br/> <br />
+<img src="https://i.imgur.com/v4PVgGb.png" height="80%" width="80%" alt="Lab Screenshots"/>
 <br />
 <br />
-Observing new Address Lease given to CLIENT1 (DHCP within given range, client within established domain, lease expiration is set to 8 days) : <br/> <br />
-<img src="https://i.imgur.com/fJIzfIa.png" height="80%" width="80%" alt="Lab Screenshots"/>
+The next simple step was running Windows update on the VM repeatedly until up to date: <br/> <br />
+<img src="https://i.imgur.com/hH5FBjs.png" height="80%" width="80%" alt="Lab Screenshots"/>
 <br />
 <br />
-Observing new Address Lease given to CLIENT1 (DHCP within given range, client within established domain, lease expiration is set to 8 days) : <br/> <br />
-<img src="https://i.imgur.com/fJIzfIa.png" height="80%" width="80%" alt="Lab Screenshots"/>
+I then ran a final credentialed scan to see the results of the remediation: <br/> <br />
+<img src="https://i.imgur.com/fRRMuJ5.png" height="80%" width="80%" alt="Lab Screenshots"/>
 <br />
 <br />
+Here are all the scans put together: <br/> <br />
+<img src="https://i.imgur.com/ggVZu8Y.png" height="80%" width="80%" alt="Lab Screenshots"/>
+<br />
+<br /> 
 </p>
 
 <!--
