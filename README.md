@@ -31,12 +31,12 @@ Connection attempts where the first is with the firewall enabled and the second 
 <img src="https://i.imgur.com/EjTb0k6.png" height="80%" width="80%" alt="Lab Screenshots"/>
 <br />
 <br />
-Running simple uncredentialed scan on VM in Nessus after establishing connection: <br/> <br />
+Results of simple uncredentialed scan on VM in Nessus after establishing connection: <br/> <br />
 <img src="https://i.imgur.com/CE9VJs6.png" height="80%" width="80%" alt="Lab Screenshots"/>
 <br />
 <br />
-Confirming DHCP on new Windows10 client VM(CLIENT1) recognizes DC as default gateway: <br/> <br />
-<img src="https://i.imgur.com/rWikTaz.png" height="80%" width="80%" alt="Lab Screenshots"/>
+After this, I ran a scan with the credentials of the account made on the VM: <br/> <br />
+<img src="https://i.imgur.com/Zg9QMrx.png" height="80%" width="80%" alt="Lab Screenshots"/>
 <br />
 <br />
 Checking if internal client CLIENT1 has connection to internet via DC by pinging google.com : <br/> <br />
