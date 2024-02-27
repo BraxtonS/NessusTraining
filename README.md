@@ -23,16 +23,16 @@ Successfully downloaded and configured Nessus Essentials on my home machine: <br
 <img src="https://i.imgur.com/0BJuuTo.png" height="80%" width="80%" alt="Lab Screenshots"/>
 <br />
 <br />
-Established a domain on domain controller as 'mydomain.com' : <br/> <br />
-<img src="https://i.imgur.com/6w4dr7R.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Turning off VM firewall in order to establish connection to Nessus on home machine: <br/> <br />
+<img src="https://i.imgur.com/H640wds.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Successfully created admin user on domain controller VM: <br/> <br />
-<img src="https://i.imgur.com/GI8fxl0.png" height="80%" width="80%" alt="Lab Screenshots"/>
+Connection attempts where the first is with the firewall enabled and the second is with the firewall disabled: <br/> <br />
+<img src="https://i.imgur.com/EjTb0k6.png" height="80%" width="80%" alt="Lab Screenshots"/>
 <br />
 <br />
-Used PowerShell script to add aorund 1000 users to the established domain: <br/> <br />
-<img src="https://i.imgur.com/NDzw66e.png" height="80%" width="80%" alt="Lab Screenshots"/>
+Running simple uncredentialed scan on VM in Nessus after establishing connection: <br/> <br />
+<img src="https://i.imgur.com/CE9VJs6.png" height="80%" width="80%" alt="Lab Screenshots"/>
 <br />
 <br />
 Confirming DHCP on new Windows10 client VM(CLIENT1) recognizes DC as default gateway: <br/> <br />
