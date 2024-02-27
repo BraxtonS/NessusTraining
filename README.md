@@ -19,8 +19,8 @@ I decided to do some training on vulnerability management with Nessus and VMWare
 <h2>Lab Screenshots</h2>
 
 <p align="center">
-Successfully downloaded Active Directory on VM meant to be domain controller(DC): <br/> <br />
-<img src="https://i.imgur.com/0wXQmft.png" height="80%" width="80%" alt="Lab Screenshots"/>
+Successfully downloaded and configured Nessus Essentials on my home machine: <br/> <br />
+<img src="https://i.imgur.com/0BJuuTo.png" height="80%" width="80%" alt="Lab Screenshots"/>
 <br />
 <br />
 Established a domain on domain controller as 'mydomain.com' : <br/> <br />
@@ -41,6 +41,14 @@ Confirming DHCP on new Windows10 client VM(CLIENT1) recognizes DC as default gat
 <br />
 Checking if internal client CLIENT1 has connection to internet via DC by pinging google.com : <br/> <br />
 <img src="https://i.imgur.com/HFoPspR.png" height="80%" width="80%" alt="Lab Screenshots"/>
+<br />
+<br />
+Observing new Address Lease given to CLIENT1 (DHCP within given range, client within established domain, lease expiration is set to 8 days) : <br/> <br />
+<img src="https://i.imgur.com/fJIzfIa.png" height="80%" width="80%" alt="Lab Screenshots"/>
+<br />
+<br />
+Observing new Address Lease given to CLIENT1 (DHCP within given range, client within established domain, lease expiration is set to 8 days) : <br/> <br />
+<img src="https://i.imgur.com/fJIzfIa.png" height="80%" width="80%" alt="Lab Screenshots"/>
 <br />
 <br />
 Observing new Address Lease given to CLIENT1 (DHCP within given range, client within established domain, lease expiration is set to 8 days) : <br/> <br />
